@@ -64,6 +64,6 @@ Characterized by persistent redness on the face, often accompanied by visible bl
 | VGG19-mBERT Late Fusion       | 0.283         | 0.341          | 0.283       | 0.250         | 0.146               |
 | ResNet50-mBERT Early Fusion   | 0.267         | 0.156          | 0.267       | 0.175         | 0.107               |
 | ResNet50-mBERT Late Fusion    | 0.383         | 0.472          | 0.383       | 0.353         | 0.222               |
-| ResNet50-XLM-RoBERTa Early Fusion   | 0.267         | 0.156          | 0.267       | 0.175         | 0.107               |
-| ResNet50-XLM-RoBERTa Late Fusion    | 0.383         | 0.472          | 0.383       | 0.353         | 0.222               |
+| ResNet50-XLM-RoBERTa Early Fusion   | 0.216         | 0.203          | 0.216       | 0.181         | 0.103               |
+| ResNet50-XLM-RoBERTa Late Fusion    | 0.3         | 0.309          | 0.3       | 0.296         | 0.174               |
 
